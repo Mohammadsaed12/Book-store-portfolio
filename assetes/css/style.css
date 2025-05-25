@@ -127,3 +127,17 @@ body {
     width: 100%;
     background: #fff;
   }
+  #menu-toggle:checked + .menu-icon + .navbar {
+    display: flex;
+  }
+
+  .navbar a {
+    width: 100%;
+    padding: 12px;
+    border-top: 1px solid #ccc;
+  }
+
+  .menu-icon {
+    display: block;
+    margin-top: 12px;
+  }
