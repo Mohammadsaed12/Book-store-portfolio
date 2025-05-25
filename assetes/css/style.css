@@ -21,3 +21,14 @@ body {
 .logo img {
   height: 75px;
 }
+
+.navbar {
+  display: flex;
+  gap: 15px;
+}
+
+.navbar a {
+  color: #2d2d2d;
+  font-weight: 600;
+  text-decoration: none;
+}
