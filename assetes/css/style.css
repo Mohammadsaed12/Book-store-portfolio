@@ -141,3 +141,18 @@ body {
     display: block;
     margin-top: 12px;
   }
+ .icons {
+    width: 100%;
+    justify-content: center;
+    margin-top: 12px;
+  }
+
+  .footer-container {
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .newsletter input {
+    width: 100%;
+  }
+}
