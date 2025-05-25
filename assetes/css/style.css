@@ -32,3 +32,9 @@ body {
   font-weight: 600;
   text-decoration: none;
 }
+
+.icons i {
+  margin-left: 12px;
+  color: #444;
+  cursor: pointer;
+}
