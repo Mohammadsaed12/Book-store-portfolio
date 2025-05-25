@@ -50,3 +50,8 @@ body {
   display: none;
 }
 
+.footer {
+  background: #e6e6e6;
+  margin-top: 50px;
+  padding: 35px 25px;
+}
