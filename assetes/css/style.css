@@ -115,3 +115,15 @@ body {
 .design span {
   color: #00998f;
 }
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .navbar {
+    display: none;
+    flex-direction: column;
+    width: 100%;
+    background: #fff;
+  }
