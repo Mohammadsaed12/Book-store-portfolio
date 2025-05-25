@@ -8,3 +8,13 @@
 body {
   background: #fafafa;
 }
+
+.header {
+  background: #fff;
+  padding: 12px 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #38bab0;
+}
