@@ -62,3 +62,11 @@ body {
   justify-content: space-between;
   gap: 25px;
 }
+.footer-box {
+  flex: 1 1 220px;
+}
+
+.footer-box img {
+  height: 70px;
+  margin-bottom: 12px;
+}
